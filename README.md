@@ -1,22 +1,27 @@
-# A wolf in sheep's clothing
+# Welcome to Mock Tech Challenge FGlints Academy#9 (Github Classroom) 👋
+[![Twitter: aldhinoerman](https://img.shields.io/twitter/follow/aldhinoerman.svg?style=social)](https://twitter.com/aldhinoerman)
 
-Wolves have been reintroduced to Great Britain. You are a sheep farmer, and are now plagued by wolves which pretend to be sheep. Fortunately, you are good at spotting them.
+> Javascript challenge for students Glints Academy#9 on Mock Tech Interview.
 
-Warn the sheep in front of the wolf that it is about to be eaten. Remember that you are standing at the front of the queue which is at the end of the array:
+## Author
 
-```
-[sheep, sheep, sheep, sheep, sheep, wolf, sheep, sheep]      (YOU ARE HERE AT THE FRONT OF THE QUEUE)
-   7      6      5      4      3            2      1
-```
+👤 **Aldhiyansyah Noerman**
 
-If the wolf is the closest animal to you, return `"Pls go away and stop eating my sheep"`. Otherwise, return `"Oi! Sheep number N! You are about to be eaten by a wolf!"` where N is the sheep's position in the queue.
+* Website: aldhinoerman.github.io
+* Twitter: [@aldhinoerman](https://twitter.com/aldhinoerman)
+* Github: [@aldhinoerman](https://github.com/aldhinoerman)
+* LinkedIn: [@aldhinoerman](https://linkedin.com/in/aldhinoerman)
 
-Note: there will always be exactly one wolf in the array.
+## 🤝 Contributing
 
-Examples
-```
-warnTheSheep(["sheep", "sheep", "sheep", "wolf", "sheep"]) === "Oi! Sheep number 1! You are about to be eaten by a wolf!"
-```
-```
-warnTheSheep(["sheep", "sheep", "wolf"]) === "Pls go away and stop eating my sheep"
-```
+Contributions, issues and feature requests are welcome!
+
+Feel free to check [issues page](httaldhinoerman/). 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
