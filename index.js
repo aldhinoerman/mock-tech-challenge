@@ -1,6 +1,11 @@
 function warnTheSheep(queue) {
     // your code here
-    
+    if (queue[queue.length -1] === 'wolf') {
+        return 'Pls go away and stop eating my sheep';
+    } else {
+        var index = queue.indexOf((x) => x == 'wolf' );
+        return `Oi! Sheep number ${index}! You are about to be eaten by a wolf!`;
+    }
 }
 
 
